@@ -10,7 +10,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-		<meta name="description" content="Landing page built using Bootstrap" />
+		<meta name="description" content="Hospital Landing page" />
 		<meta name="author" content="Abhishek Keshri" />
 		<title>Hospital Landing</title>
 
