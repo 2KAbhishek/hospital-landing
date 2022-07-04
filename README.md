@@ -23,10 +23,10 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Landing page template for a hospital ⚕️🏥</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="hospital-landing Demo" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="hospital-landing Demo" style="width:100%">
   <br/>
   <figcaption>hospital-landing screenshot</figcaption>
 </figure>
@@ -35,17 +35,17 @@
 
 ## What is this
 
-hospital-landing is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+A landing page template for a hospital.
 
 ## Inspiration
 
-hospital-landing was inspired by `<reason/idea>`.
+Wanted to try out PHP for a landing page.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `php`
 
 ## Getting hospital-landing
 
@@ -54,51 +54,20 @@ To install hospital-landing, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/hospital-landing
 cd hospital-landing
-<install_command>
-```
-
-## Using hospital-landing
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+$EDITOR .
 ```
 
 ## How it was built
 
-hospital-landing was built using `<tech/library>`
+hospital-landing was built using `VS Code` and `PHP`.
 
 ## Challenges faced
 
-While building hospital-landing the main challenges were `<issue/difficulty>`
+Setting up the server was a challenge.
 
 ## What I learned
 
-While building hospital-landing I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Setup PHP server and database
 
 Hit the ⭐ button if you found this useful.
 
