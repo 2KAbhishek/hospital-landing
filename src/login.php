@@ -1,6 +1,5 @@
-<?php 
-
-session_start(); 
+<?php
+session_start();
 include "db_conn.php";
 
 if (isset($_POST['uname']) && isset($_POST['password'])) {
@@ -43,8 +42,9 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
 	        exit();
 		}
 	}
-	
+
 }else{
 	header("Location: index.php");
 	exit();
 }
+?>
